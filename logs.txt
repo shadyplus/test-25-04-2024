@@ -1,0 +1,198 @@
+ 2023-11-29 12:08:52;2.83.137.172;joliveira.costa5@gmail.com;{"error":"Error ID:EA658FB0-8E96-11EE-BAF5-FE428017B9AC. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-01 14:55:01;87.196.82.68;;{"code":"invalid_arg","error":"Error ID:758C39D6-9040-11EE-8AB7-C654E6FBDDA2. fields: 'email' is required","result":""}
+ 2023-12-02 05:24:15;85.246.221.146;agostinhoouteiro@gmeil.com;{"error":"Error ID:E35FFB04-90B9-11EE-9F5E-2AE907CC812D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-03 00:02:53;109.51.166.214;;{"code":"invalid_arg","error":"Error ID:28DACAF0-9156-11EE-B36F-0E270ED2378F. fields: 'email' is required","result":""}
+ 2023-12-03 13:31:28;94.133.38.97;parma1969@hotmail.com;{"error":"Error ID:1E2DE562-91C7-11EE-A8B9-1A5FE2D1AF7A. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-03 20:53:03;87.196.80.67;;{"code":"invalid_arg","error":"Error ID:CE604640-9204-11EE-AA5F-020B155FC22D. fields: 'email' is required","result":""}
+ 2023-12-04 01:03:51;89.155.200.221;fernandojsmendes@gmail.com;{"error":"Error ID:D78CB064-9227-11EE-BB01-06DF9E10A5A8. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-04 18:46:45;87.196.73.245;jaloureiro7@gmail.com;{"error":"Error ID:54062D02-92BC-11EE-AEA0-B2D251DF729E. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-04 23:06:47;87.196.75.230;gauluiscosta@icloud.com;{"error":"Error ID:A767EC82-92E0-11EE-A890-EEC8794F4583. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-05 11:03:02;85.139.216.189;reinaldo-martins1@hotmail.com;{"error":"Error ID:B6C58A0E-9344-11EE-83D8-B2D251DF729E. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-05 12:59:30;89.115.192.157;wilsonlimapires@.gmail.com;{"code":"invalid_arg","error":"Error ID:FBC19688-9354-11EE-B9FD-0E69194981E1. fields: This value 'wilsonlimapires@.gmail.com' is not a valid email address.","result":""}
+ 2023-12-05 15:33:41;95.92.143.159;josebizarro1955@gmail.com;{"error":"Error ID:85EA705E-936A-11EE-B17A-9E8D3FC409D5. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-05 16:56:33;95.92.143.159;;{"code":"invalid_arg","error":"Error ID:19536642-9376-11EE-9533-5AFEBFFD5A00. fields: 'email' is required","result":""}
+ 2023-12-05 21:14:20;89.115.10.61;;{"code":"invalid_arg","error":"Error ID:1C670112-939A-11EE-B9B6-B2EC30B9E3BB. fields: 'email' is required","result":""}
+ 2023-12-05 21:47:15;87.196.80.27;ezequielportugal2023@hotmail.com;{"error":"Error ID:B54CF5D6-939E-11EE-9665-FEF1FC02BC42. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-05 21:50:11;2.82.119.244;manuel.antonio71@hotmail.com;{"error":"Error ID:1EB7019C-939F-11EE-8DAE-FA4B38482BAC. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 02:21:02;89.181.182.197;joaosilva01985@gmail.com;{"error":"Error ID:F4BE7264-93C4-11EE-B2A6-164247A45A63. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 03:08:35;31.22.179.12;Antonio Paixao     agma1lcom;{"code":"invalid_arg","error":"Error ID:991254EC-93CB-11EE-9E7A-CED068C016EE. fields: This value 'Antonio Paixao     agma1lcom' is not a valid email address.","result":""}
+ 2023-12-06 03:16:00;109.51.200.196;renatorrlucas@gmail.com;{"error":"Error ID:A2B384A2-93CC-11EE-8433-FEF1FC02BC42. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 08:23:04;109.48.211.250;vimafepe@gmail.com;{"error":"Error ID:88006B18-93F7-11EE-8B3D-FA4B38482BAC. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 10:08:49;89.214.144.173;manuelsrs6@gmail.com;{"error":"Error ID:4E1F8C8A-9406-11EE-B15E-F674A44B34F8. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 10:20:00;185.237.102.83;sp3268982@gmail.com;{"error":"Error ID:DDC5E298-9407-11EE-9C00-22A882C3332D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 11:39:11;85.243.9.232;tonyvieira55@yahoo.com.au;{"error":"Error ID:EE069296-9412-11EE-A5CC-B2EC30B9E3BB. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 17:34:05;92.250.56.26;;{"code":"invalid_arg","error":"Error ID:81B15A2C-9444-11EE-A0CD-3E40550C4965. fields: 'email' is required","result":""}
+ 2023-12-06 18:05:45;109.48.166.187;marioruioliveorsdossantos@hotmel.com;{"error":"Error ID:EE43E5E8-9448-11EE-B07A-2A444FF1BD03. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-06 20:42:45;87.196.80.222;;{"code":"invalid_arg","error":"Error ID:DD828FF0-945E-11EE-8399-E2AF62C545FB. fields: 'email' is required","result":""}
+ 2023-12-06 21:26:52;109.51.45.182;;{"code":"invalid_arg","error":"Error ID:0704858A-9465-11EE-9504-2A444FF1BD03. fields: 'email' is required","result":""}
+ 2023-12-07 07:09:54;144.64.210.149;jaestevese@gmail.com'';{"code":"invalid_arg","error":"Error ID:7A0EEF06-94B6-11EE-A179-7EF228040F0F. fields: This value 'jaestevese@gmail.com''' is not a valid email address.","result":""}
+ 2023-12-07 11:32:21;79.169.226.58;pedro penelas.63@gmail.com;{"code":"invalid_arg","error":"Error ID:239FE24A-94DB-11EE-A2F6-7EF228040F0F. fields: This value 'pedro penelas.63@gmail.com' is not a valid email address.","result":""}
+ 2023-12-07 13:54:43;89.214.117.153;edumedrs@gmail.com;{"error":"Error ID:07885CB8-94EF-11EE-A65D-462A6B370C1F. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-07 13:56:19;89.214.149.172;nzinguilo04@gmail.com;{"error":"Error ID:40973C22-94EF-11EE-A768-7603CF1B8698. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-07 14:02:00;176.79.207.142;joaquim.fernandes.rato@gmail.com;{"error":"Error ID:0BCC8712-94F0-11EE-A1C7-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-07 15:25:46;83.223.186.105;;{"code":"invalid_arg","error":"Error ID:BF344BAE-94FB-11EE-B80C-12CBCB4FF0A7. fields: 'email' is required","result":""}
+ 2023-12-07 17:39:54;148.69.198.118;labut1260@gmail.com;{"error":"Error ID:7C2D1AF8-950E-11EE-A77A-462A6B370C1F. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-07 18:21:23;88.210.90.25;An.teixeira28@gmail.com;{"error":"Error ID:476EC900-9514-11EE-82DC-7603CF1B8698. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-07 20:59:09;82.155.243.61;;{"code":"invalid_arg","error":"Error ID:526767E8-952A-11EE-B262-462A6B370C1F. fields: 'email' is required","result":""}
+ 2023-12-07 22:39:40;85.243.119.208;fernando.freitas60@gmail..com;{"code":"invalid_arg","error":"Error ID:5CB46224-9538-11EE-BD5F-B6B4C36E84C7. fields: This value 'fernando.freitas60@gmail..com' is not a valid email address.","result":""}
+ 2023-12-08 00:32:32;188.81.205.18;julio25silva@gmail.com;{"error":"Error ID:2120DDE0-9548-11EE-8F4F-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 02:54:33;87.103.59.177;ar.boavistos@gmail.com;{"error":"Error ID:F812BEFA-955B-11EE-AD51-7603CF1B8698. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 02:55:39;79.168.248.102;alrof@sapo.pt;{"error":"Error ID:1F7A47EC-955C-11EE-A08A-B6B4C36E84C7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 03:41:00;149.90.237.18;p_alexpimentel@hotmail.com;{"error":"Error ID:758D49F8-9562-11EE-B8E4-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 11:26:43;2.82.97.103;franciscodasilvaesousa@gmail.com;{"error":"Error ID:84B34B80-95A3-11EE-AD6C-B6B4C36E84C7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 11:31:32;188.37.234.50;vmgilvaz@gmail.com;{"error":"Error ID:310D450C-95A4-11EE-9DB8-A2F4071188BC. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 11:38:12;87.196.73.224;1955mfernandes@gmail.com;{"error":"Error ID:1F332F08-95A5-11EE-B3EA-C61BAA8FF12C. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 12:30:50;87.196.72.22;alessandrotravassos.pt@gmail.com;{"error":"Error ID:79FD66F4-95AC-11EE-B510-F6F71D950E07. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 12:43:55;79.169.28.97;kobongojunior@gmail.com;{"error":"Error ID:4DDDB93C-95AE-11EE-8F31-02CA0F9E6F7D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 12:55:05;46.50.6.108;osmarpereira3@msn.com;{"error":"Error ID:DCCB0BA8-95AF-11EE-8AA6-02CA0F9E6F7D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 16:27:57;85.245.86.159;eufrasiop90@gmail.com;{"error":"Error ID:99B30D20-95CD-11EE-BC50-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-08 16:57:57;87.103.58.162;;{"code":"invalid_arg","error":"Error ID:CAA8EB08-95D1-11EE-857A-F6F71D950E07. fields: 'email' is required","result":""}
+ 2023-12-09 02:25:33;188.83.3.11;basiliofilho1967@gmail.com;{"error":"Error ID:15C43756-9621-11EE-AE4F-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-10 09:58:15;149.90.19.133;preirangola@hotmail.com;{"error":"Error ID:7E0F6868-9729-11EE-A8C8-C61BAA8FF12C. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-10 11:23:37;81.84.221.155;;{"code":"invalid_arg","error":"Error ID:6A8B0E62-9735-11EE-91F3-B6B4C36E84C7. fields: 'email' is required","result":""}
+ 2023-12-10 11:58:58;84.90.97.137;franciscoluisdinis@gmail.com;{"error":"Error ID:5AF10BC8-973A-11EE-9534-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-10 12:27:41;2.80.16.174;;{"code":"invalid_arg","error":"Error ID:5E34B79A-973E-11EE-B922-F6F71D950E07. fields: 'email' is required","result":""}
+ 2023-12-10 14:03:01;188.82.182.248;carlos.passeira@hotmail.com;{"error":"Error ID:AF1F93D4-974B-11EE-A62E-C61BAA8FF12C. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-10 17:06:31;85.241.133.50;;{"code":"invalid_arg","error":"Error ID:51F74E76-9765-11EE-A2DB-7603CF1B8698. fields: 'email' is required","result":""}
+ 2023-12-10 17:39:26;94.60.171.232;jsantosbaptista@gmail.com;{"error":"Error ID:EB249618-9769-11EE-BAD7-7603CF1B8698. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 11:32:38;87.196.73.235;jorgerodigues55@gmail.com;{"error":"Error ID:D7557B02-97FF-11EE-AA97-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 13:44:55;85.246.184.72;deleivieiraneto@gmail.com;{"error":"Error ID:5237E1B8-9812-11EE-9FB3-C61BAA8FF12C. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 14:03:00;95.136.46.226;ederocha1992@icloud.com;{"error":"Error ID:D9114E34-9814-11EE-97FD-12CBCB4FF0A7. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 14:43:06;85.246.146.53;abilio.nunespereira@hotmail.com;{"error":"Error ID:7374C1AE-981A-11EE-A081-462A6B370C1F. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 18:09:17;85.245.40.68;emanueljrodrigues@sapo.pt;{"error":"Error ID:40B1A986-9837-11EE-A929-2E967EDB8150. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 19:20:08;89.214.118.225;salvadorgita@gmail.com;{"error":"Error ID:2692C8DC-9841-11EE-9CC6-6AEF8F8F0121. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-11 22:23:34;87.196.72.23;lopesairton393@gmail.com;{"error":"Error ID:C7101C56-985A-11EE-9CDD-FA650FB29C46. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-12 11:43:07;85.240.100.54;jmcteixeira@sapo.pt;{"error":"Error ID:78DD6F96-98CA-11EE-B4D5-924CC5381A4D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-12 13:46:16;213.228.157.159;jorgecavaco286@gmail.com;{"error":"Error ID:AD22B93A-98DB-11EE-92E3-FA650FB29C46. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-13 08:03:46;94.61.154.166;iberroracoes@gmail.com;{"error":"Error ID:FEB987C6-9974-11EE-BB34-A65AF2318E3C. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-13 16:10:17;87.196.82.121;ruibras1@hotmail.com;{"error":"Error ID:F5B8399E-99B8-11EE-BFC0-0A1D736F1D82. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-14 00:22:44;2.80.16.174;antinio-carneiro63@hotmail.com;{"error":"Error ID:C124F376-99FD-11EE-9534-2E7184DB250D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-14 01:49:58;81.193.195.70;euricoandradebarbosa@gmail.com;{"error":"Error ID:F1470E34-9A09-11EE-AD5E-DE1033E1C3BF. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-14 03:41:15;85.242.218.222;;{"code":"invalid_arg","error":"Error ID:7D15E6C4-9A19-11EE-BDD6-060359D8CD64. fields: 'email' is required","result":""}
+ 2023-12-14 08:02:54;95.94.107.118;mestre.taborda@gmail.com;{"error":"Error ID:0A315740-9A3E-11EE-AA7D-0A1D736F1D82. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-14 15:59:09;87.196.74.64;eldersoares191@gmail.com;{"error":"Error ID:925EBFBC-9A80-11EE-A7BD-C24AA07049BB. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-14 22:49:05;85.138.158.83;c.p1950@hotmail.com;{"error":"Error ID:D67BF8D4-9AB9-11EE-B5E1-461DE1F6F5F1. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-15 10:10:15;185.237.102.81;agoralima.lima2022@gmail.com;{"error":"Error ID:FF3FFC02-9B18-11EE-9DC2-56D0AF4D53CA. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-15 14:02:45;87.196.81.135;s.m.frio@hotmail.com;{"error":"Error ID:79B93B7C-9B39-11EE-9CC0-C24AA07049BB. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-17 15:17:17;84.90.5.245;horaciofrancisco035@gmail.;{"code":"invalid_arg","error":"Error ID:3847A234-9CD6-11EE-B2E8-0A1D736F1D82. fields: This value 'horaciofrancisco035@gmail.' is not a valid email address.","result":""}
+ 2023-12-19 17:42:28;88.157.212.154;Juelsonduartesanha@gmail.com;{"error":"Error ID:D538A230-9E7C-11EE-B6C5-0E3AD50793C6. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-20 04:11:55;217.129.179.187;;{"code":"invalid_arg","error":"Error ID:C3D52E2A-9ED4-11EE-BB34-E209E2EA0943. fields: 'email' is required","result":""}
+ 2023-12-20 22:16:14;2.82.194.241;antonio3cordeiro@hotmail.com;{"error":"Error ID:3E401782-9F6C-11EE-B8AC-A241CD108775. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-21 02:16:29;176.78.231.92;;{"code":"invalid_arg","error":"Error ID:CE51668E-9F8D-11EE-8A1B-C6F685ACB625. fields: 'email' is required","result":""}
+ 2023-12-21 11:11:03;87.196.75.35;franciscomartin8149@hotmeil.com.com;{"error":"Error ID:7B94E0D8-9FD8-11EE-8536-A241CD108775. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-22 14:52:38;46.50.5.155;rmadeiramartins@sapo.pt;{"error":"Error ID:9A80535E-A0C0-11EE-9713-229C4F9883D2. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-22 16:02:32;89.155.123.244;bipalsapkota@gmail.com;{"error":"Error ID:5E902E6E-A0CA-11EE-B067-C27002AC2CC6. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-22 23:57:51;89.155.204.63;;{"code":"invalid_arg","error":"Error ID:C55525CC-A10C-11EE-BB61-229C4F9883D2. fields: 'email' is required","result":""}
+ 2023-12-23 11:08:35;144.64.58.65;;{"code":"invalid_arg","error":"Error ID:786351B8-A16A-11EE-9F68-C27002AC2CC6. fields: 'email' is required","result":""}
+ 2023-12-23 12:15:20;62.169.74.203;JoãoFaria05091961gmail@;{"code":"invalid_arg","error":"Error ID:CB863D7A-A173-11EE-BD39-C27002AC2CC6. fields: This value 'Jo&atilde;oFaria05091961gmail@' is not a valid email address.","result":""}
+ 2023-12-24 18:47:32;87.196.74.130;;{"code":"invalid_arg","error":"Error ID:C0193B6C-A273-11EE-8220-DA34B7CB72FA. fields: 'email' is required","result":""}
+ 2023-12-25 11:49:07;87.196.80.99;eduardofranca.junior@gmail.com;{"error":"Error ID:76D7986A-A302-11EE-AABD-C27002AC2CC6. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-25 14:49:37;176.78.239.103;vitorteixeira46@gmail.com;{"error":"Error ID:ADE612E6-A31B-11EE-B3B9-C27002AC2CC6. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-25 22:15:36;85.243.73.71;goncalves1mdoloresagmail.com;{"code":"invalid_arg","error":"Error ID:FB8677AA-A359-11EE-A09C-96AA16BD0930. fields: This value 'goncalves1mdoloresagmail.com' is not a valid email address.","result":""}
+ 2023-12-26 13:21:17;213.190.209.196;jorsilves@gmail.com;{"error":"Error ID:8155416C-A3D8-11EE-875C-624EBE0A7A46. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-26 14:51:09;87.196.74.35;e.nery@netcanp.pt;{"error":"Error ID:0F0B568E-A3E5-11EE-AD98-96AA16BD0930. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-26 14:55:37;109.51.186.157;;{"code":"invalid_arg","error":"Error ID:AF2D7A48-A3E5-11EE-A2E2-D6D07633354A. fields: 'email' is required","result":""}
+ 2023-12-28 01:42:06;89.152.136.181;;{"code":"invalid_arg","error":"Error ID:29507B76-A509-11EE-AA46-6A0F0AB00994. fields: 'email' is required","result":""}
+ 2023-12-28 13:30:23;2.83.136.74;;{"code":"invalid_arg","error":"Error ID:1BB17444-A56C-11EE-AF94-6E255C370583. fields: 'email' is required","result":""}
+ 2023-12-28 17:59:21;109.48.209.25;Rogermargarido@gmail.com;
+ 2023-12-29 00:40:59;87.196.72.252;lg8003149@gmail.com;
+ 2023-12-29 01:03:02;83.144.183.232;;
+ 2023-12-29 01:20:06;87.196.73.234;;{"code":"invalid_arg","error":"Error ID:410CD4FA-A5CF-11EE-A78E-3ADB20328C61. fields: 'email' is required","result":""}
+ 2023-12-29 01:35:55;81.84.174.230;alves.jsilva@gmail.com;
+ 2023-12-29 04:13:34;89.214.113.101;gabriel@sapo.pt;{"error":"Error ID:7CBE7392-A5E7-11EE-A716-DE2AD8DB2AD1. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-29 15:55:17;95.92.118.138;gildot450@gmail.com;{"error":"Error ID:843D8380-A649-11EE-AA71-52D894D44AA9. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-29 17:11:41;109.49.223.93;;{"code":"invalid_arg","error":"Error ID:30612892-A654-11EE-9464-A2A68E223BE5. fields: 'email' is required","result":""}
+ 2023-12-29 21:42:00;188.83.50.94;santos-60@live.com.ptu;{"code":"invalid_arg","error":"Error ID:F3BE5FD8-A679-11EE-BED7-A2A68E223BE5. fields: This value 'santos-60@live.com.ptu' is not a valid email address.","result":""}
+ 2023-12-30 00:27:01;176.78.238.34;jjosemogo@gmail.com;{"error":"Error ID:01065594-A691-11EE-B970-C2A6485A6F00. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-30 08:33:15;85.244.68.121;;{"code":"invalid_arg","error":"Error ID:EE32718E-A6D4-11EE-BB6A-A2A68E223BE5. fields: 'email' is required","result":""}
+ 2023-12-31 01:48:38;85.245.246.152;ampcabral@hotmail.com;{"error":"Error ID:92885DEE-A765-11EE-8D07-F607CD3C89DB. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-31 02:39:46;176.79.239.1;jl;{"code":"invalid_arg","error":"Error ID:B6EF3412-A76C-11EE-B5C5-36B549CD5AA3. fields: This value 'jl' is not a valid email address.","result":""}
+ 2023-12-31 02:56:51;176.78.198.214;vjnbernardino@hotmail.com;{"error":"Error ID:1A14AF52-A76F-11EE-8715-16E4BFD6B849. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-31 02:58:55;188.82.64.224;;{"code":"invalid_arg","error":"Error ID:63C1D094-A76F-11EE-9FB6-52D894D44AA9. fields: 'email' is required","result":""}
+ 2023-12-31 03:00:55;87.196.72.241;elizeuvarela945@gmail.com;{"error":"Error ID:AB6628DC-A76F-11EE-856A-A2A68E223BE5. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-31 03:57:45;87.196.236.238;;{"code":"invalid_arg","error":"Error ID:9BC083FC-A777-11EE-AD4A-52D894D44AA9. fields: 'email' is required","result":""}
+ 2023-12-31 11:38:04;85.139.152.157;;{"code":"invalid_arg","error":"Error ID:EA53B9EA-A7B7-11EE-8BBD-A2A68E223BE5. fields: 'email' is required","result":""}
+ 2023-12-31 16:06:20;94.61.33.239;fernandesmanu169@gmail.com;{"error":"Error ID:63E73CE4-A7DD-11EE-A14D-AE0BDDC7D59A. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2023-12-31 18:22:37;193.126.156.39;manuelramires1949@gmail.com;{"error":"Error ID:6E452468-A7F0-11EE-8493-A2A68E223BE5. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-01 14:50:36;89.214.27.137;alofortado@gmail.com;{"error":"Error ID:FA3CBFD4-A89B-11EE-9CEA-AE0BDDC7D59A. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-02 01:36:59;87.196.81.12;mendesreni4@gmail.com;{"error":"Error ID:4695A684-A8F6-11EE-A587-8A486A9504F3. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-02 02:45:32;87.196.81.3;;{"code":"invalid_arg","error":"Error ID:DA2BC1EA-A8FF-11EE-B574-C2A6485A6F00. fields: 'email' is required","result":""}
+ 2024-01-02 03:35:37;87.196.72.239;;
+ 2024-01-02 04:38:17;89.214.147.89;adriano;{"code":"invalid_arg","error":"Error ID:9A98F34E-A90F-11EE-A48E-8A486A9504F3. fields: This value 'adriano' is not a valid email address.","result":""}
+ 2024-01-02 14:46:15;109.49.20.95;mariojorge_martins@hotmail.com;{"error":"Error ID:88E3EE88-A964-11EE-BA7F-52D894D44AA9. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-03 00:25:53;89.180.41.24;;{"code":"invalid_arg","error":"Error ID:8226A9E0-A9B5-11EE-8C7A-36B549CD5AA3. fields: 'email' is required","result":""}
+ 2024-01-03 03:06:07;81.193.156.30;;{"code":"invalid_arg","error":"Error ID:E48E2C96-A9CB-11EE-B238-A2A68E223BE5. fields: 'email' is required","result":""}
+ 2024-01-03 04:54:15;89.214.113.71;;{"code":"invalid_arg","error":"Error ID:FFE83806-A9DA-11EE-8815-C2A6485A6F00. fields: 'email' is required","result":""}
+ 2024-01-03 15:28:59;87.196.81.31;;{"code":"invalid_arg","error":"Error ID:AB5DC7A2-AA33-11EE-B113-E66711AEB1E8. fields: 'email' is required","result":""}
+ 2024-01-04 01:11:24;87.196.72.72;albertosalves1961@gmail.com;{"error":"Error ID:088A350E-AA85-11EE-B99E-6A73C96C9325. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-04 13:23:27;93.108.22.236;mpers2410@gmail.com;{"error":"Error ID:4C599430-AAEB-11EE-8B54-E66711AEB1E8. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-04 16:50:31;77.54.113.106;josebatista1957@outlook.com;{"error":"Error ID:3A0FAF5E-AB08-11EE-A9E1-4EFE10C19B56. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-04 17:22:56;2.81.156.254;;{"code":"invalid_arg","error":"Error ID:C14FD558-AB0C-11EE-B08E-4EFE10C19B56. fields: 'email' is required","result":""}
+ 2024-01-05 00:55:09;2.81.128.204;;{"code":"invalid_arg","error":"Error ID:EDB1FD94-AB4B-11EE-B184-7A46D774DBE5. fields: 'email' is required","result":""}
+ 2024-01-05 02:26:56;89.154.103.254;nao tenho;{"code":"invalid_arg","error":"Error ID:C04A8166-AB58-11EE-81CB-CE9B18D932EB. fields: This value 'nao tenho' is not a valid email address.","result":""}
+ 2024-01-05 11:17:33;148.69.63.163;mfvmovelmarcenaria@gmail.com;{"error":"Error ID:E0821BFC-ABA2-11EE-A06B-427E21D20300. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-05 12:36:02;89.114.69.165;filipejoao1951@gmail.com;{"error":"Error ID:D77FACA8-ABAD-11EE-A160-9A672501B464. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-05 14:55:44;87.196.75.216;klebergarciaaraujo@gmail.com;{"error":"Error ID:5B76798E-ABC1-11EE-B293-0686F8539BC3. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-07 03:33:57;94.62.88.168;fagudo8@gmail.com;{"error":"Error ID:71B5DDBE-ACF4-11EE-8C3F-B65B163E013D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-07 19:25:26;85.240.202.238;vmfs1951@gmail.com;{"error":"Error ID:5D61DC16-AD79-11EE-969A-1275908702CE. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-07 20:50:58;176.78.198.214;vjnbernardino@hotmail.com;{"error":"Error ID:506F91E0-AD85-11EE-8ED8-22B908D365B0. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-08 00:35:43;87.196.73.255;;{"code":"invalid_arg","error":"Error ID:B5CA5344-ADA4-11EE-A568-36F7F0E65022. fields: 'email' is required","result":""}
+ 2024-01-08 00:52:04;168.182.239.2;valdemarcm@hotmail.com;{"error":"Error ID:FECA56D2-ADA6-11EE-88D7-3E7763C1C00E. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-08 01:24:28;89.115.105.168;;{"code":"invalid_arg","error":"Error ID:854C5792-ADAB-11EE-A9EB-36F7F0E65022. fields: 'email' is required","result":""}
+ 2024-01-08 03:29:30;87.196.72.120;varelamonteirowacilyjustado@gmail.com;{"error":"Error ID:FD184572-ADBC-11EE-AEB6-62F46A7863AE. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-08 09:02:01;213.22.202.56;;{"code":"invalid_arg","error":"Error ID:70692158-ADEB-11EE-B981-62F46A7863AE. fields: 'email' is required","result":""}
+ 2024-01-08 16:05:08;87.196.73.158;rogerjarda@gmail.com;{"error":"Error ID:8CCA1AA6-AE26-11EE-AF6A-62F46A7863AE. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-08 18:54:54;2.83.98.59;;{"code":"invalid_arg","error":"Error ID:44122CDC-AE3E-11EE-B7DD-1275908702CE. fields: 'email' is required","result":""}
+ 2024-01-08 19:27:02;148.69.24.133;amdpintor@gmail.com;{"error":"Error ID:C1052D44-AE42-11EE-B140-36F7F0E65022. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-08 20:14:58;89.153.74.34;;{"code":"invalid_arg","error":"Error ID:73486150-AE49-11EE-A4B8-22B908D365B0. fields: 'email' is required","result":""}
+ 2024-01-08 21:12:16;87.196.81.35;martins2josue@gmail.com;{"error":"Error ID:7454CA86-AE51-11EE-AF60-22B908D365B0. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-08 21:47:19;87.196.72.41;luis.teixeira3070@gmail.com;{"error":"Error ID:5A0563C0-AE56-11EE-86B5-A63D4C53B205. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-09 01:41:03;89.109.91.66;josealbertonunes70@gmail.com;{"error":"Error ID:00C0899A-AE77-11EE-BC7A-36F7F0E65022. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-09 05:11:46;188.140.26.46;emilio.cv2022@gmail.com;{"error":"Error ID:70EC1F14-AE94-11EE-A2D5-62F46A7863AE. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-09 12:40:25;87.196.82.33;filipenunes81@hotmail.com;{"error":"Error ID:1D9368EC-AED3-11EE-A9FD-3E7763C1C00E. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-10 00:09:28;109.51.21.94;;{"code":"invalid_arg","error":"Error ID:60157696-AF33-11EE-AF6D-0EBE96A6FEB5. fields: 'email' is required","result":""}
+ 2024-01-10 10:51:08;89.214.121.81;manuelaraujoferreira2@gmail.com;{"error":"Error ID:03A92880-AF8D-11EE-AFDD-624ED383C373. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-11 16:38:33;87.196.72.126;;{"code":"invalid_arg","error":"Error ID:B695754E-B086-11EE-AB05-86E0DB7C64D6. fields: 'email' is required","result":""}
+ 2024-01-12 08:48:01;176.79.247.51;nao tenho;{"code":"invalid_arg","error":"Error ID:255F07BA-B10E-11EE-84D0-9AE788EF8F14. fields: This value 'nao tenho' is not a valid email address.","result":""}
+ 2024-01-13 10:15:38;87.196.73.68;kassumay47@gmail.com;{"error":"Error ID:8D8E8B82-B1E3-11EE-8DF4-9AE788EF8F14. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-14 16:16:13;188.82.57.95;agnelo1153@gmail.com;{"error":"Error ID:172E43A4-B2DF-11EE-A486-DE3C737B20FF. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-14 18:21:53;87.196.72.151;zecajgpereira.1971@gmail.com;{"error":"Error ID:A54E89D0-B2F0-11EE-B3E0-B2283A066ACF. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-15 07:37:42;188.82.231.77;;{"code":"invalid_arg","error":"Error ID:D2417C58-B35F-11EE-9856-1E570EF30949. fields: 'email' is required","result":""}
+ 2024-01-18 13:38:41;2.82.75.244;;{"code":"invalid_arg","error":"Error ID:BF73B024-B5ED-11EE-8FF0-8AFA6FD73969. fields: 'email' is required","result":""}
+ 2024-01-18 18:18:02;87.196.75.231;davidsousapita@hotmail.com;{"error":"Error ID:C5C70116-B614-11EE-8B09-4688038F661C. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-19 15:51:30;176.79.230.153;;{"code":"invalid_arg","error":"Error ID:773E7DFC-B6C9-11EE-B482-5230D9C7B1ED. fields: 'email' is required","result":""}
+ 2024-01-19 16:07:23;148.71.32.73;bruno.soares1995@hotmail.com;{"error":"Error ID:AF9B26E4-B6CB-11EE-8B66-F2C083028F09. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-20 05:55:45;87.103.55.24;TV;{"code":"invalid_arg","error":"Error ID:68155D3E-B73F-11EE-9F84-8A197E89F39C. fields: This value 'TV' is not a valid email address.","result":""}
+ 2024-01-20 06:41:24;87.196.72.85;americosenra@hotmail.com;{"error":"Error ID:C885E674-B745-11EE-A5EE-5230D9C7B1ED. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-20 18:03:20;95.94.19.12;tiagcarvalho@hotmail.com m;{"code":"invalid_arg","error":"Error ID:0C72857C-B7A5-11EE-AE85-5230D9C7B1ED. fields: This value 'tiagcarvalho@hotmail.com m' is not a valid email address.","result":""}
+ 2024-01-21 02:48:35;83.223.243.48;mario 1952dimingos@gmail.com.;{"code":"invalid_arg","error":"Error ID:6D314A1C-B7EE-11EE-9D28-F2C083028F09. fields: This value 'mario 1952dimingos@gmail.com.' is not a valid email address.","result":""}
+ 2024-01-21 02:50:30;94.60.165.240;;{"code":"invalid_arg","error":"Error ID:B1BE2394-B7EE-11EE-B3F1-1272C9528AC3. fields: 'email' is required","result":""}
+ 2024-01-21 07:56:24;79.169.208.66;laurencioinacio@gmail.com;{"error":"Error ID:6D3D947C-B819-11EE-8BDB-42FD99B595FC. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-21 10:33:04;2.83.30.190;;{"code":"invalid_arg","error":"Error ID:502A3C76-B82F-11EE-B972-CA4D759EF905. fields: 'email' is required","result":""}
+ 2024-01-22 01:32:39;87.196.80.95;joaquimdomingues1955@gmail.com;{"error":"Error ID:FBCF5F3E-B8AC-11EE-BA50-5230D9C7B1ED. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-23 15:38:42;46.50.0.37;;{"code":"invalid_arg","error":"Error ID:5748E458-B9EC-11EE-9190-5EA4AF3C2A9F. fields: 'email' is required","result":""}
+ 2024-01-24 09:50:49;109.48.139.144;antonio.m.r.patricio@gmail.com;{"error":"Error ID:E8ADE0F4-BA84-11EE-8D16-5A17699DA5DC. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-24 10:40:31;78.130.110.239;estrelas.veludo@gmail.com;{"error":"Error ID:D9DCCE58-BA8B-11EE-B5FF-FA0104401DCE. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-27 06:32:18;87.103.31.116;;{"code":"invalid_arg","error":"Error ID:AC78EF2E-BCC4-11EE-8C40-F243817B8399. fields: 'email' is required","result":""}
+ 2024-01-27 11:29:49;148.69.10.120;;{"code":"invalid_arg","error":"Error ID:3C029D1A-BCEE-11EE-897F-1E5A0D41968B. fields: 'email' is required","result":""}
+ 2024-01-29 03:06:57;89.115.92.35;js1774011@gmail.com;{"error":"Error ID:5167967C-BE3A-11EE-B6F0-1E5A0D41968B. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-29 13:25:31;85.243.37.207;bertonunes@hotmail.com;{"error":"Error ID:BB241396-BE90-11EE-A000-7AAFF31CDEFB. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-30 03:58:10;128.65.245.162;gacosta64@hotmsil.com;{"error":"Error ID:A37E33F0-BF0A-11EE-AA03-4AC3FC776F7F. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-30 14:08:44;148.69.197.246;antonio55vieiramorais@gmail.com;{"error":"Error ID:EEB3A04E-BF5F-11EE-BFC2-F269F9D5AC7D. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-30 16:24:24;85.139.224.143;bernardo.fig@montemaior.om;{"error":"Error ID:E2684C8C-BF72-11EE-B4B9-CE2DC63DA406. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-01-30 18:48:32;95.136.93.171;sergio.spinto20@hotmail.com;{"error":"Error ID:050F2F44-BF87-11EE-8E0B-8E894A30233F. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-02 13:53:36;83.223.226.178;ditolisboa@hotmail.com;{"error":"Error ID:50FCF268-C1B9-11EE-A9E6-EA3730546B4B. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-06 11:32:24;89.115.89.105;tozebraganca48@gmail.com;{"error":"Error ID:40B4DCFE-C4CA-11EE-B3C4-1E3D444513E5. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-06 14:45:40;89.152.26.4;df-abreu@hotmail.com;{"error":"Error ID:40BF7EC8-C4E5-11EE-B567-426F97BBC284. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-08 02:00:36;85.240.209.61;;{"code":"invalid_arg","error":"Error ID:B47C41D4-C60C-11EE-A6F9-8EAAEC241201. fields: 'email' is required","result":""}
+ 2024-02-08 10:46:38;87.196.74.83;;{"code":"invalid_arg","error":"Error ID:30F4C30A-C656-11EE-BF77-66A00C941A0D. fields: 'email' is required","result":""}
+ 2024-02-09 02:01:30;213.22.92.2;fferreira.cozinhas@gmail.com;{"error":"Error ID:FEE07F64-C6D5-11EE-B70B-46CDB1513756. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-09 03:17:39;82.154.86.145;daniell1859rodrigues@gmail.com;{"error":"Error ID:A25FE3C8-C6E0-11EE-9E5E-CE3C5F8B6A7B. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-09 10:03:24;188.37.207.247;;{"code":"invalid_arg","error":"Error ID:51695BB4-C719-11EE-A818-62FBF72884FA. fields: 'email' is required","result":""}
+ 2024-02-09 10:10:55;92.250.101.10;joselopes1972@yahoo.com;{"error":"Error ID:5DE4C576-C71A-11EE-9F17-9EC7B5C4FF62. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-10 13:39:45;85.139.16.246;;{"code":"invalid_arg","error":"Error ID:B4CA9EB0-C800-11EE-B596-922778B75FD0. fields: 'email' is required","result":""}
+ 2024-02-13 11:41:19;89.114.69.140;nao tenho imal;{"code":"invalid_arg","error":"Error ID:A888422C-CA4B-11EE-849D-527339EA29F7. fields: This value 'nao tenho imal' is not a valid email address.","result":""}
+ 2024-02-14 15:37:08;87.103.20.146;jdsalem@sapo.pt;{"error":"Error ID:C4A323F6-CB35-11EE-9824-62C851CC21DD. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-15 14:31:45;213.30.88.253;ricardojorgecarvalhosevero45@gmail.com;{"error":"Error ID:CCC5340A-CBF5-11EE-939D-1258E230F057. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-15 22:23:42;89.152.34.132;iziquieljfembalo@gmail.com;{"error":"Error ID:BADBE4C2-CC37-11EE-B24E-EEFF01E840B5. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-02-16 11:41:56;85.138.151.201;jose.rolo.@gmail.com;{"code":"invalid_arg","error":"Error ID:3DCE4932-CCA7-11EE-8894-EEFF01E840B5. fields: This value 'jose.rolo.@gmail.com' is not a valid email address.","result":""}

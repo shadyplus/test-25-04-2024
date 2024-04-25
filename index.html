@@ -1,0 +1,2830 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mednews - portal</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+    <link href="https://fonts.googleapis.com/css2?family=Germania+One&amp;display=swap" rel="stylesheet">
+    <link media="all" href="css/style.css" type="text/css" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        var locale = 'en';
+        var days = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+        var months = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October",
+            "November", "December"
+        ];
+
+        function dtimes(e) {
+            var t = new Date;
+            t.setDate(t.getDate() + e + 1 - 1), document.write(t.getDate() + " " + months[t.getMonth()])
+        }
+
+        function dtime(e) {
+            var t = new Date;
+            t.setDate(t.getDate() + e), document.write(days[t.getDay()] + " " + t.getDate() + ",  " + months[t
+                .getMonth()] + " " + t.getFullYear())
+        }
+
+        function dtime_nums(e, t, a) {
+            var n = new Date;
+            n.setDate(n.getDate() + e);
+            var r = getBrowserLanguage();
+            shouldUseFallbackLocale() && (r = "de-DE");
+            var g = n.toLocaleDateString(r);
+            if (a) return g;
+            document.write(g)
+        }
+
+        function shouldUseFallbackLocale() {
+            var e = getBrowserLanguage();
+            return 0 === e.indexOf("ar") || 0 === e.indexOf("fa") || 0 === e.indexOf("bg") || 0 === e.indexOf("en-US")
+        }
+
+        function getBrowserLanguage() {
+            return navigator.language || navigator.userLanguage
+        }
+    </script>
+</head>
+
+
+
+<body>
+    <div id="fb-root"></div>
+    <div id="app">
+        <div class="App App--isMaterial">
+            <div class="App-header">
+                <header class="Header" role="banner">
+                    <div class="Header-left">
+                        <div class="Header-meduzaLogo">
+                            <a class="vtbadlink MeduzaLogo to_form" href="#">
+                                <div class="SvgIcon SvgIcon--inherit SvgIcon--meduzaLogo">
+                                    <h2
+                                        style="font-family: 'Germania One', cursive !important;margin:0;padding:0;line-height: 45px;">
+
+
+
+
+                                        notícias médicas
+
+
+
+                                    </h2>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="Header-center">
+                        <div class="Header-menu">
+                            <nav class="Menu" role="navigation">
+                                <div class="Menu-item"><a class="vtbadlink Menu-link to_form" href="#">
+
+
+
+                                        NOTÍCIAS
+
+
+
+                                    </a>
+                                </div>
+                                <div class="Menu-item"><a class="vtbadlink Menu-link to_form" href="#">
+
+
+
+                                        HISTÓRIA
+
+
+
+                                    </a>
+                                </div>
+                                <div class="Menu-item"><a class="vtbadlink Menu-link to_form" href="#">
+
+
+
+                                        DISCUSSÃO
+
+
+
+                                    </a>
+                                </div>
+                                <div class="Menu-item"><a class="vtbadlink Menu-link to_form" href="#">
+
+
+
+                                        JOGOS
+
+
+
+                                    </a>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="Header-right">
+                        <button class="HeaderButton HeaderButton--chat to_form" type="button"><span
+                                class="HeaderButton-link"><span>
+
+
+
+                                    CONVERSAS
+
+
+
+                                </span></span>
+                        </button>
+                    </div>
+                </header>
+            </div>
+            <main class="App-content" role="main">
+                <div class="Material Material--feature Material--default">
+                    <div class="Material-container">
+                        <div class="Material-shadow Material-shadow--top"></div>
+                        <div class="MediaMaterial MediaMaterial--fullWidth">
+                            <div class="MediaMaterial-header">
+                                <div class="MediaMaterial-tag">
+                                    <span class="MaterialTag MaterialTag--medium MaterialTag--solid">
+
+
+
+
+                                        A SAÚDE DOS HOMENS
+
+
+
+
+                                    </span>
+                                </div>
+                                <div class="MediaMaterial-meta">
+                                    <div class="MaterialMeta MaterialMeta--time">
+                                        <span>
+
+
+
+
+                                            Data de publicação:
+
+                                            <span class="startdate" format="dayrusyear" daysago="11" daysint="">
+
+                                                <script type="text/javascript">
+                                                    dtime_nums(-7, true)
+                                                </script>
+                                            </span>
+
+
+                                            , 10:45
+
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="MediaMaterial-body">
+                                <div class="MediaMaterial-materialContent">
+                                    <div class="MaterialContent MaterialContent--bannerless">
+                                        <div class="DangerousHTML">
+                                            <div class="Body">
+                                                <div class="contentBox">
+                                                    <h1>
+                                                        <span
+                                                            style="font-family:Arial,Helvetica,sans-serif; line-height: 40px!important;">
+
+
+
+
+                                                            Em Portugal não sabem tratar a prostatite!
+                                                            O acadêmico
+                                                            japonês de 95 anos revelou como curar a prostatite e
+                                                            o adenoma da próstata em qualquer idade.
+
+
+
+
+                                                        </span>
+                                                    </h1>
+                                                    <p>
+                                                        <strong>
+                                                            <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                A urologista japonesa, professora e renomada
+                                                                acadêmica, ganhadora do Prêmio Nobel Aretha
+                                                                Tanaka, aposentou-se aos 85 anos, mas não era
+                                                                inativa nem mental nem fisicamente.
+                                                                Dez anos
+                                                                depois de se aposentar, o professor Tanaka
+                                                                continua a escrever na área de urologia.
+                                                                O professor
+                                                                tem 95 anos, mas afirma que problemas de
+                                                                próstata podem ser evitados mesmo nessa idade.
+
+
+
+
+                                                            </span>
+                                                        </strong>
+                                                    </p>
+                                                    <p style="text-align:center">
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <img alt=""
+                                                                src="images/416-3942e6327b3f48739ce69b0e51c3e499.jpg"
+                                                                style="max-width:750px; width:100%">
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            O professor Tanaka diz que o segredo para uma
+                                                            próstata saudável e para a vitalidade masculina está
+                                                            na limpeza dos vasos sanguíneos.
+                                                            Se estiverem
+                                                            limpos e saudáveis, a prostatite e o adenoma nunca
+                                                            incomodarão um homem.
+                                                            E o ex-urologista
+                                                            confirma suas palavras.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            Nosso correspondente conseguiu entrevistar o
+                                                            ganhador do Prêmio Nobel.
+                                                            O professor
+                                                            Tanaka deu uma descrição detalhada do método de
+                                                            tratamento da prostatite.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Correspondente:
+
+
+
+
+                                                            </strong>
+                                                            <em>
+
+
+
+
+                                                                Professor Tanaka, você afirmou repetidamente que
+                                                                uma próstata saudável é a chave para a saúde e
+                                                                longevidade masculina.
+                                                                Porque pensas
+                                                                isso?
+
+
+
+
+                                                            </em>
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Prof. Tanaka:
+
+
+
+
+                                                            </strong>
+
+
+
+
+                                                            É simples.
+                                                            Cada corpo é um
+                                                            sistema complexo regulado por hormônios.
+                                                            O funcionamento
+                                                            de todos os órgãos e sistemas internos depende da
+                                                            base hormonal geral.
+                                                            Nos homens, o
+                                                            principal regulador da saúde é a próstata.
+                                                            Figurativamente,
+                                                            pode ser chamado de “segundo coração” de um homem.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p>
+
+
+
+
+                                                        À medida que envelhecemos, os vasos do sistema
+                                                        geniturinário ficam obstruídos, perdem elasticidade e
+                                                        fornecem menos nutrição aos órgãos.
+                                                        Em última análise, o
+                                                        fornecimento de sangue envolve o fornecimento de
+                                                        oxigênio e nutrientes, bem como a remoção de dióxido de
+                                                        carbono e produtos metabólicos dos órgãos internos.
+
+                                                        Como resultado,
+                                                        observa-se estagnação da secreção da próstata (um
+                                                        líquido especial - nota do editor).
+                                                        A próstata começa a
+                                                        inflamar e, sem tratamento oportuno, forma-se um
+                                                        adenoma.
+
+
+
+
+                                                    </p>
+                                                    <p style="text-align:center">
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <img src="images/271-81044379a738d741e6660f58b1c581f0.jpg"
+                                                                style="max-width:750px; width:100%">
+                                                        </span>
+                                                    </p>
+                                                    <p style="text-align:center">
+                                                        <em>
+                                                            <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                Uma foto da recente apresentação do Professor
+                                                                Tonaka no Simpósio Internacional de Urologistas
+                                                                e Andrologistas.
+
+
+
+
+                                                            </span>
+                                                        </em>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            Como resultado, o homem não só tem problemas com a
+                                                            função erétil, mas também enfrenta dificuldades para
+                                                            urinar adequadamente.
+                                                            Ao limpar
+                                                            periodicamente os vasos do sistema urogenital,
+                                                            pode-se evitar a estagnação da secreção e a
+                                                            inflamação da próstata.
+                                                            Como mencionei
+                                                            antes, o principal regulador do corpo masculino é a
+                                                            próstata.
+                                                            Isso significa
+                                                            que, ao limpar os vasos sanguíneos, você pode
+                                                            prolongar significativamente a vida e não apenas
+                                                            curar a prostatite.
+                                                            E isso não é
+                                                            apenas uma teoria.
+                                                            Eu costumava
+                                                            recomendá-lo aos meus pacientes e agora eu mesmo
+                                                            pratico.
+                                                            Além disso, com a
+                                                            deterioração do funcionamento normal da próstata,
+                                                            outras patologias começam a se desenvolver.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p style="text-align:center">
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <img src="images/511-e5d67599bbb698e0cb7ec7a0713419e2.jpg"
+                                                                style="max-width:500px; width:100%">
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Correspondente:
+
+
+
+
+                                                            </strong><em>
+
+
+
+
+                                                                Que tipos de patologias são causadas por sangue
+                                                                estagnado na pelve e vasos bloqueados?
+
+
+
+
+                                                            </em>
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Prof. Tanaka:
+
+
+
+
+                                                            </strong>
+
+
+
+
+                                                            Vasos sanguíneos sujos afetam todo o corpo.
+                                                            Mas, é claro,
+                                                            afetam principalmente órgãos diretamente ligados ao
+                                                            aparelho geniturinário:
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <div class="left-img-box">
+                                                        <p>
+                                                            <img alt=""
+                                                                src="images/209-31c11844b92d357d823381b120455cb2.jpg"
+                                                                style="width:100%">
+                                                            <strong>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    A prostatite é uma doença que afeta 85% dos
+                                                                    homens com mais de 40 anos.
+
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="left-img-box">
+                                                        <p>
+                                                            <span style="font-family:Arial,Helvetica,sans-serif">
+                                                                <img alt=""
+                                                                    src="images/449-588b11ad7a92d13777fe0be3adf633bf.jpg"
+                                                                    style="width:100%">
+                                                                <strong>
+
+
+
+
+                                                                    O adenoma da próstata é a próxima
+                                                                    complicação após a prostatite.
+                                                                    Em 47%
+                                                                    dos casos leva à formação de um tumor
+                                                                    cancerígeno na próstata.
+
+
+
+
+                                                                </strong>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <div class="left-img-box">
+                                                        <p>
+                                                            <span style="font-family:Arial,Helvetica,sans-serif">
+                                                                <img alt=""
+                                                                    src="images/333-f4d173a63820aee562c8a68d86847676.jpg"
+                                                                    style="width:100%">
+                                                                <strong>
+
+
+
+
+                                                                    A epididimite (inflamação dolorosa dos
+                                                                    testículos) ocorre quando a infecção se
+                                                                    espalha a partir de uma próstata inflamada.
+
+
+
+
+                                                                </strong>
+                                                            </span>
+                                                        </p>
+                                                    </div>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            Estas complicações não podem ser evitadas se a
+                                                            prostatite não for tratada!
+                                                            Em Portugal, um
+                                                            em cada dois homens com mais de 40 anos sofre de
+                                                            prostatite alguma vez.
+                                                            Os urologistas
+                                                            sabem disso;
+                                                            Eles sabem que é
+                                                            necessário restaurar o fornecimento normal de
+                                                            nutrientes aos órgãos pélvicos e aumentar a produção
+                                                            natural de testosterona.
+                                                            No entanto, por
+                                                            alguma razão, este tipo de práticas não são comuns
+                                                            na medicina portuguesa.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p>
+
+
+
+
+                                                        Em vez disso, eles prescrevem antibióticos, massagem
+                                                        direta na próstata para prostatite e até terapia
+                                                        hormonal.
+                                                        Embora entendam que
+                                                        estes têm um efeito temporário.
+                                                        E é preciso limpar os
+                                                        vasos sanguíneos.
+                                                        A propósito, no
+                                                        Ocidente todos os homens entre 40 e 50 anos fazem isso
+                                                        há mais de meio século.
+                                                        Isso significa que
+                                                        todo mundo sabe como limpar os vasos sanguíneos para
+                                                        combater a prostatite.
+                                                        Por que eles não
+                                                        fazem isso por você é uma grande questão para mim.
+
+
+
+
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Correspondente:
+
+
+                                                                <em></em>
+                                                            </strong>
+                                                            <em>
+
+
+
+
+                                                                Há algum sintoma que possa indicar vasos
+                                                                sanguíneos bloqueados?
+
+
+
+
+                                                            </em>
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Prof. Tanaka:
+
+
+
+
+                                                            </strong>
+
+
+
+
+                                                            Sim, claro.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <div class="red-horizontal-box">
+                                                        <p>
+                                                            <strong>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Os principais sintomas de um distúrbio no
+                                                                    fornecimento de sangue aos órgãos do sistema
+                                                                    genital incluem:
+
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                        <ul style="margin-left:40px">
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Queimação ao urinar
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Sensação de bexiga cheia
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Fraqueza episódica
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    fadiga crônica
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Insônia
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Piora da visão e da audição.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Hipertensão
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Pele pálida
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            Porém, mesmo que você não apresente esses sintomas,
+                                                            a limpeza vascular do aparelho geniturinário deve
+                                                            ser realizada periodicamente após os 40 anos.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p><span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Correspondente:
+
+
+
+
+                                                            </strong>
+                                                            <em>
+
+
+
+
+                                                                Você pode compartilhar conosco seu segredo para
+                                                                limpar os vasos sanguíneos e tratar a
+                                                                prostatite?
+
+
+
+
+                                                            </em>
+                                                        </span>
+                                                    </p>
+                                                    <p style="text-align:center">
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <em>
+                                                                <img alt=""
+                                                                    src="images/510-29ae8f7a41c2441065a399ac80cdf90e.jpg"
+                                                                    style="max-width:750px; width:100%">
+                                                            </em>
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Prof.Tanaka:
+
+
+
+
+                                                            </strong>
+
+
+
+
+                                                            Prof.Tanaka: Até recentemente, o processo de
+                                                            tratamento levava vários meses.
+                                                            Eu mesmo colhi as
+                                                            ervas, procurei no mercado ou encomendei online e
+                                                            depois preparei infusões com elas.
+                                                            Agora não faço
+                                                            mais isso porque recentemente meus colegas, com base
+                                                            nas fórmulas que desenvolvi, criaram um medicamento
+                                                            muito bom e acessível para tratar prostatite e
+                                                            adenoma de próstata.
+                                                            Em Portugal
+                                                            chama-se Cannabis Oil.
+                                                            Foi concebido
+                                                            para regular as funções do aparelho geniturinário
+                                                            masculino, o que se consegue através da limpeza dos
+                                                            vasos sanguíneos e da estimulação do bom
+                                                            funcionamento da próstata.
+                                                            Portanto, para
+                                                            nossos propósitos, é o melhor de todos.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <center>
+                                                        <a class="to_form" href="#">
+                                                            <span id="product-block"> </span>
+                                                        </a>
+                                                    </center>
+                                                    <style>
+                                                        .opacity {
+                                                            -moz-transition: all 0.4s;
+                                                            -webkit-transition: all 0.4s;
+                                                            -ms-transition: all 0.4s;
+                                                            -o-transition: all 0.4s;
+                                                            transition: all 0.4s;
+                                                            opacity: 1;
+                                                            filter: alpha(opacity=100);
+                                                        }
+
+                                                        .opacity:hover {
+                                                            opacity: 0.8;
+                                                            filter: alpha(opacity=80);
+                                                        }
+
+                                                        .left-img-box {
+                                                            float: left;
+                                                            padding: 2%;
+                                                            width: 96%;
+                                                            background: #dadada;
+                                                            color: #000;
+                                                            margin-top: 10px;
+                                                            margin-bottom: 10px;
+                                                        }
+
+                                                        .left-img-box img {
+                                                            float: left;
+                                                            margin-right: 20px;
+                                                            width: 100%;
+                                                            height: auto;
+                                                            max-width: 350px !important;
+                                                        }
+
+                                                        #product-block {
+                                                            background-image: url("images/prod.png");
+                                                            background-repeat: no-repeat;
+                                                            background-position: center center;
+                                                            height: 388px;
+                                                            width: 100% !important;
+                                                            display: block;
+                                                            margin: 0px 0px 0px 0px !important;
+                                                            margin: 0 !important;
+                                                            /* margin: 0 0 0 -10% !important;*/
+                                                            background-size: auto 100%;
+                                                            text-align: center;
+                                                        }
+
+                                                        #product-block .plashka2-t {
+                                                            color: #fff915;
+                                                            font-size: 20px;
+                                                            line-height: 25px;
+                                                        }
+
+                                                        #product-block .plashka2 b {
+                                                            text-shadow: 1px 1px 2px #373838;
+                                                        }
+
+                                                        #product-block .plashka2 {
+                                                            position: absolute;
+                                                            background: url("") center center no-repeat;
+                                                            background-size: 190px 262px;
+                                                            width: 190px !important;
+                                                            height: 138px;
+                                                            padding: 144px 30px 0 0;
+                                                            line-height: 22px;
+                                                            text-align: center;
+                                                            font-size: 17px;
+                                                            color: #fff;
+                                                            margin: 48px 0 0 -10px !important;
+                                                            font-family: 'Roboto', sans-serif;
+                                                            box-sizing: content-box;
+                                                            z-index: 5;
+                                                        }
+
+                                                        @media screen and (max-width: 767px) {
+                                                            #product-block {
+                                                                width: 100% !important;
+                                                                height: 224px !important;
+                                                                margin: 0 !important;
+                                                                /* margin: 0 0 0 -10% !important;*/
+                                                            }
+
+                                                            #product-block .plashka2 {
+                                                                background-size: 135px 188px;
+                                                                width: 110px !important;
+                                                                height: 98px;
+                                                                padding: 95px 25px 0 0;
+                                                                line-height: 16px;
+                                                                font-size: 13px;
+                                                                margin: 15px 0 0 0px !important;
+                                                            }
+
+                                                            #product-block .plashka2-t {
+                                                                font-size: 14px;
+                                                            }
+                                                        }
+
+                                                        @media screen and (max-width: 720px) {
+                                                            .renul_seDwyoGn57 .gelat_Bb6MhOHv {
+                                                                text-align: center
+                                                            }
+                                                        }
+
+                                                        @media screen and (max-width: 200px) {
+                                                            #product-block .plashka2 {
+                                                                display: none;
+                                                            }
+                                                        }
+                                                    </style>
+                                                    <p></p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            É um medicamento muito bom que permite até curar a
+                                                            prostatite crônica e ver os efeitos em 2 a 3 semanas
+                                                            de uso regular.
+                                                            Quero também
+                                                            salientar que este medicamento não contém produtos
+                                                            químicos, apenas extratos altamente concentrados de
+                                                            plantas benéficas para o corpo masculino, por isso
+                                                            não é apenas inofensivo, mas também muito benéfico.
+
+                                                            Segundo
+                                                            lembranças antigas, ainda me procuram pacientes,
+                                                            inclusive aqueles com prostatite.
+                                                            Ultimamente só
+                                                            recomendo este medicamento.
+                                                            Ele ajuda todo
+                                                            mundo e é muito bom.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p>
+
+
+
+
+                                                        Em Portugal o medicamento é utilizado há cerca de um
+                                                        ano, pelo que existem estatísticas oficiais do Instituto
+                                                        Português de Investigação em Urologia, baseadas nos
+                                                        resultados de ensaios clínicos.
+                                                        Aproximadamente 2.000
+                                                        homens de diferentes idades participaram do estudo.
+
+                                                        Todos foram
+                                                        submetidos a tratamento.
+
+
+
+
+                                                    </p>
+                                                    <p class="rub-ramka" style="">
+                                                        <span class="myh4">
+
+
+
+
+                                                            Importante!
+                                                            Como resultado
+                                                            dos estudos, descobriu-se que
+
+                                                            <span class="date-31" data-format="month">
+
+                                                                outubro
+
+
+                                                            </span>
+
+
+
+                                                            e
+
+
+                                                            <span class="date-0" data-format="month">
+
+                                                                novembro
+
+
+                                                            </span>
+
+
+
+                                                            são as melhores épocas para iniciar o tratamento.
+
+                                                            Devido à
+                                                            estabilização da temperatura média, os processos
+                                                            metabólicos do corpo são acelerados e a eficácia do
+                                                            medicamento aumenta.
+                                                            O tratamento é
+                                                            37% mais rápido em comparação com outras épocas do
+                                                            ano.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <div class="blue-horizontal-box">
+                                                        <p>
+                                                            <strong>
+                                                                <span>
+
+
+
+
+                                                                    Resultados do estudo para homens (43 a 76
+                                                                    anos) durante o tratamento com o
+                                                                    medicamento:
+
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                        <ul style="margin-left:40px">
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    A prostatite, incluindo a prostatite
+                                                                    crónica, foi curada em 99% dos indivíduos.
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    A potência aumentou independentemente da
+                                                                    idade do sujeito: 97% dos sujeitos.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Limpeza completa dos vasos do aparelho
+                                                                    geniturinário - 99% dos indivíduos.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Melhoria na eficácia do tratamento de
+                                                                    doenças crónicas: 99% dos sujeitos.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Melhoria geral da saúde: 100% dos sujeitos.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                                    Ausência de efeitos colaterais ao tomar a
+                                                                    medicação: 100% dos sujeitos.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <p><span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Correspondente:
+
+
+
+
+                                                            </strong>
+                                                            <em>
+
+
+
+
+                                                                Quanto custa e onde pode ser adquirido?
+
+
+
+
+                                                            </em>
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+                                                            <strong>
+
+
+
+                                                                Prof. Tanaka:
+
+
+
+
+                                                            </strong>
+
+
+
+
+                                                            Prof. Tanaka: Você provavelmente sabe que muitos
+                                                            medicamentos são caros hoje em dia.
+                                                            Portanto, eu não
+                                                            recomendaria um medicamento caro.
+                                                            É um medicamento
+                                                            muito acessível, especialmente agora que se tornou
+                                                            um elemento-chave no programa de medicina
+                                                            geniturinária.
+
+
+
+
+                                                        </span>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-family:Arial,Helvetica,sans-serif">
+
+
+
+
+                                                            Graças a isto, qualquer homem em
+                                                            <strong><span style="color:#ff0000">
+
+
+                                                                    Portugal
+
+
+
+                                                                </span></strong><strong>
+
+
+                                                                pode adquirir o nosso produto e esquecer a
+                                                                massagem à próstata!
+
+
+                                                            </strong>
+                                                            <strong>
+                                                                <span style="color:#ff0000">
+
+                                                                </span>
+
+                                                            </strong>
+                                                        </span>
+
+
+
+
+
+                                                        Para participar da campanha e receber um pacote, você
+                                                        tem até quarta-feira,
+
+
+
+
+                                                        <script type="text/javascript">
+                                                            dtime_nums(0, true)
+                                                        </script>
+                                                        (inclusive) para enviar a inscrição no formulário
+                                                        oficial.
+                                                        Podem candidatar-se
+                                                        homens com mais de 35 anos residentes em Portugal.
+
+
+
+
+                                                    </p>
+                                                    <div class="pg"
+                                                        style="background: rgb(255, 236, 166) none repeat scroll 0% 0%; padding: 20px; border: 1px solid red;">
+                                                        <h3>
+
+
+
+
+                                                            Condições para receber o benefício:
+
+
+
+
+                                                        </h3>
+                                                        <ul style="font-size: 18px;">
+                                                            <li>
+                                                                <b>
+
+
+
+
+                                                                    Apenas para uso pessoal.
+
+
+
+
+                                                                </b>
+                                                                <br>
+                                                                <span>
+
+
+
+
+                                                                    Isso é necessário para combater os
+                                                                    revendedores que tentam comprá-lo a granel e
+                                                                    reembalá-lo com sua própria marca.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                            <li>
+                                                                <b>
+
+
+
+
+                                                                    Inscreva-se através da página oficial do
+                                                                    programa.
+
+
+
+
+                                                                </b>
+                                                                <br>
+                                                                <span>
+
+
+
+
+                                                                    A página oficial é garantia do fabricante e
+                                                                    proteção contra revendedores.
+
+
+
+
+                                                                </span>
+                                                            </li>
+                                                        </ul>
+                                                    </div>
+                                                    <center>
+                                                        <img style="display: block; margin:  20px auto; max-width: 300px; width: 100%;"
+                                                            src="images/prod.png">
+                                                    </center>
+                                                    <br>
+                                                    <br>
+                                                    <br>
+                                                    <span id="target"></span>
+                                                    <p style="text-align: center; margin-top: -100px;">
+
+
+
+
+                                                        Para receber Cannabis Oil com 50% de desconto, preencha o
+                                                        formulário oficial abaixo:
+
+
+
+
+                                                    </p>
+                                                    <form class="order-form form_order" method="post" action="order.php"
+                                                        id="to_form">
+
+                                                        <span class="order-form__price"
+                                                            style="text-decoration: line-through">
+                                                            <span class="x_currency_old">
+
+
+
+                                                                98€
+
+
+
+
+                                                            </span>
+                                                        </span>
+                                                        <span class="order-form__price">
+                                                            <span class="x_currency">
+
+
+
+                                                                49€
+
+
+
+
+                                                            </span>
+
+
+
+                                                            *
+
+
+
+
+                                                        </span>
+                                                        <label class="order-form__label" for="client">
+
+
+
+                                                            Nome
+
+
+
+                                                        </label>
+                                                        <input class="order-form__text" type="text" id="client"
+                                                            name="name" required="" placeholder="Nome">
+                                                        <label class="order-form__label" for="phone">
+
+
+
+                                                            Número de telefone
+
+
+
+                                                        </label>
+                                                        <input class="order-form__text" type="tel" id="phone"
+                                                            name="phone" required="" placeholder="Número de telefone">
+                                                        <button style="font-size: 18px; margin-bottom: 0!important;"
+                                                            type="submit" class="order-form__button mm_button">
+
+
+
+
+                                                            PEDIDO COM 50% DE DESCONTO
+
+
+
+
+                                                        </button>
+                                                        <input type="hidden" name="clickid" value="{subid}">
+                                                        <input type="hidden" name="bay" value="{sub_id_12}">
+                                                    </form>
+                                                </div>
+                                                <hr>
+                                                <div class="box box-blue-light comments-block">
+                                                    <h3 style="font-size: 20px; text-decoration: underline;">
+
+
+
+
+                                                        Comentários:
+
+
+
+                                                    </h3><br>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p><img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Xeveria Espírito
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Estou muito grato pelas informações sobre esta
+                                                            ferramenta.
+                                                            Meu marido tem
+                                                            problemas de próstata há muito tempo, a última vez
+                                                            que fez sexo foi há cerca de dois anos.
+                                                            Ele até teve um
+                                                            colapso nervoso por causa disso.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 23 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Jacinto Branco
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Como médico, posso dizer que nunca vi a massagem da
+                                                            próstata ajudar no tratamento da prostatite.
+                                                            Apenas uma forma
+                                                            normal de ganhar dinheiro, também degradante para um
+                                                            homem de verdade.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 22 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Macério Herran
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Ultimamente eu não conseguia nem ir ao banheiro, não
+                                                            conseguia dormir à noite.
+                                                            Receitas
+                                                            populares, comprimidos, fui muitas vezes ao
+                                                            urologista.
+                                                            A única coisa que
+                                                            ajudou foi isso.
+                                                            Recomendo a todos
+                                                            os homens que experimentem.
+                                                            Este medicamento
+                                                            irá surpreendê-lo agradavelmente se você ainda não o
+                                                            experimentou.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 19 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Jax Urias
+
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Obrigado aos criadores!
+                                                            Eu tentei, a
+                                                            prostatite desapareceu!
+                                                            Fiz um curso para
+                                                            me consolidar, embora os primeiros resultados tenham
+                                                            surgido depois de uma semana: finalmente consegui
+                                                            urinar normalmente.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 18 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Renaldo Centeno
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Eu disse adeus ao adenoma em 3 semanas.
+                                                            Aconselho a
+                                                            todos.
+                                                            A única coisa que
+                                                            realmente ajuda.
+                                                            Pedi outro curso
+                                                            para consolidar o resultado.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 17 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Elias Melgar
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            A propósito, por trás dos antibióticos, ouvi e li
+                                                            muita negatividade.
+                                                            As consequências
+                                                            do seu uso podem ser extremamente terríveis.
+                                                            Mas ouvi pela
+                                                            primeira vez que o adenoma causa câncer.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 16 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Hubert Lozano
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Eu próprio sou médico e confirmo que sem produção
+                                                            normal de hormônios não há saúde.
+                                                            Além disso, os
+                                                            homens sofrem muito mais que as mulheres, deixamos
+                                                            de produzir testosterona e o corpo se desgasta três
+                                                            vezes mais rápido.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 15 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Felicitas Palmero
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Como solicitar medicamentos?
+                                                            É muito
+                                                            necessário, meu marido sobe nas paredes à noite,
+                                                            figurativamente falando.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 15 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Próspero Rossel
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Namusoke, aqui está um link para o site oficial do
+                                                            fabricante, mas rápido, tem 50% de desconto.
+
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 14 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Felicitas Palmero
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Obrigado, já fiz o pedido, mas pode me dizer quanto
+                                                            tempo demora a entrega?
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 12 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Próspero Rossel
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Parabéns, chegará em cerca de 3 dias)
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 12 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Mauro Virgem
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Obrigado, Cannabis Oil ajudou muito rapidamente!
+                                                            Não atrase o
+                                                            tratamento, é melhor livrar-se desses problemas
+                                                            agora do que esperar até que tudo acabe com
+                                                            consequências mais graves.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 10 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Manuel de La Vega
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            O resultado é realmente tão bom?
+                                                            Talvez valha a
+                                                            pena escrever você mesmo.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 10 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Itsaso Matías
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Meu marido se recusou a fazer uma massagem depois da
+                                                            primeira vez.
+                                                            Vamos pedir,
+                                                            precisamos ser tratados.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            há 9 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Isingoma Mulindwa
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Vejo que não só tenho esse tipo de problema, mas
+                                                            graças a Deus encontrei a página do fabricante do
+                                                            produto há cerca de um mês.
+                                                            O urologista
+                                                            ficou surpreso quando terminei o curso: o tamanho da
+                                                            próstata voltou a ser o mesmo de antes da
+                                                            inflamação.
+                                                            E isso sem
+                                                            antibióticos ou outros meios.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 9 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Zziwa Sserunkuma
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Diga-me pessoal, isso realmente vai ajudar vocês?
+
+                                                            E então as drogas
+                                                            e os médicos não fazem sentido.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 8 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Kizza Mukasa
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Não há dúvidas sobre isso.
+                                                            O efeito é muito
+                                                            forte e o mais importante é que não faz mal à saúde.
+
+                                                            Então, faça seu
+                                                            pedido e mantenha-se saudável!
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+
+                                                            há 8 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Tusubira Ssali
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Há seis meses fiz um tratamento.
+                                                            Minha próstata
+                                                            voltou ao normal, graças a Deus.
+                                                            No entanto, tive
+                                                            prostatite infecciosa.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+                                                        <b>
+
+
+
+                                                            há 7 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Nalwoga Kiwanuka
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Meu comentário é mais para as mulheres, se o seu
+                                                            homem tem problemas de prostatite, não demore.
+
+                                                            Raramente um
+                                                            homem se atreverá a ir ao médico com tal doença.
+
+                                                            E é constrangedor
+                                                            e degradante receber uma massagem.
+                                                            Mas se você não
+                                                            tratar, você terá câncer.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+                                                        <b>
+
+
+
+                                                            há 3 horas
+
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p><img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong><span class="user-name">
+
+
+
+                                                                    Walusimbi Magoola
+
+
+
+                                                                </span></strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            O problema é que você pode ter prostatite aos 30 ou
+                                                            até aos 20 anos.
+                                                            Realmente depende
+                                                            dos vasos sanguíneos.
+                                                            Bem, quase tudo.
+
+                                                            É por isso que os
+                                                            fumantes estão sempre em risco.
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+
+                                                        <b>
+
+
+
+                                                            21 minutos mais tarde
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <div class="comment-box">
+                                                    <div class="comment-profile-box">
+                                                        <p>
+                                                            <img src="images/ava.jpg" class="ava-img user-img">
+                                                            <strong>
+                                                                <span class="user-name">
+
+
+
+                                                                    Ssentongo Kagimu
+
+
+
+                                                                </span>
+                                                            </strong>
+                                                        </p>
+                                                    </div>
+                                                    <div class="comment-text-box">
+                                                        <p></p>
+                                                        <p>
+
+
+
+
+                                                            Comecei a beber secretamente da minha esposa, não
+                                                            queria contar a ela que havia um problema.
+                                                            Fiquei surpreso
+                                                            com o efeito!
+                                                            Não só não havia
+                                                            nenhum vestígio de prostatite, mas minha ereção
+                                                            voltou, embora eu já tivesse descartado isso há
+                                                            muito tempo!
+                                                            Você pode
+                                                            imaginar como minha esposa ficou surpresa, ela me
+                                                            conhece há anos!
+
+
+
+
+                                                        </p>
+                                                        <p></p>
+                                                    </div>
+                                                    <small style="color: #6b6b6b;">
+
+
+
+
+                                                        Postado
+
+                                                        há
+                                                        <b>
+
+
+
+                                                            15 minutos
+
+
+
+                                                        </b>
+                                                    </small>
+                                                </div>
+                                                <form class="order-form form_order" method="post" action="order.php"
+                                                    id="to_form">
+
+                                                    <span class="order-form__price"
+                                                        style="text-decoration: line-through">
+                                                        <span class="x_currency_old">
+
+
+
+                                                            98€
+
+
+
+                                                        </span>
+                                                    </span>
+                                                    <span class="order-form__price">
+                                                        <span class="x_currency">
+
+
+
+                                                            49€
+
+
+
+
+                                                        </span>
+
+
+
+                                                        *
+
+
+
+
+                                                    </span>
+                                                    <label class="order-form__label" for="client">
+
+
+
+                                                        Nome
+
+
+
+                                                    </label>
+                                                    <input class="order-form__text" type="text" id="client" name="name"
+                                                        required="" placeholder="Nome">
+                                                    <label class="order-form__label" for="phone">
+
+
+
+                                                        Número de telefone
+
+
+
+                                                    </label>
+                                                    <input class="order-form__text" type="tel" id="phone" name="phone"
+                                                        required="" placeholder="Número de telefone">
+                                                    <button style="font-size: 18px; margin-bottom: 0!important;"
+                                                        type="submit" class="order-form__button mm_button">
+
+
+
+
+                                                        PEDIDO COM 50% DE DESCONTO
+
+
+
+
+                                                    </button>
+                                                    <input type="hidden" name="clickid" value="{subid}">
+                                                    <input type="hidden" name="bay" value="{sub_id_12}">
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </main>
+            <footer>
+                <a href="#">
+
+
+
+                    Termos e condições
+
+
+
+                </a>
+
+
+
+                |
+
+
+                <a href="#">
+
+
+
+                    Política de Privacidade
+
+
+
+                </a>
+
+
+
+                |
+
+
+                <a href="#">
+
+
+
+                    Política de devoluções, reembolsos e trocas
+
+
+
+                </a>
+            </footer>
+        </div>
+    </div>
+
+    <script>
+        const btn = document.querySelectorAll('a[href*="#"]');
+        const hiddenElement = document.getElementById("target");
+        for (let btns of btn) {
+            btns.addEventListener("click", function (e) {
+                e.preventDefault();
+                hiddenElement.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start",
+                });
+            });
+        }
+    </script>
+
+
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.*?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        }
+        document.addEventListener("DOMContentLoaded", function (event) {
+            var fbp = getURLParameter('fbp');
+            if (fbp != "") {
+                var hide_input = document.createElement('input');
+                hide_input.setAttribute('name', 'fbp');
+                hide_input.setAttribute('type', 'hidden');
+                hide_input.value = fbp;
+                var forms = document.querySelectorAll('form');
+                forms.forEach(function (element) {
+                    var input = element.querySelector('input[name=fbp]');
+                    if (input) {
+                        console.log('change value');
+                        input.value = subid;
+                    } else {
+                        console.log('add input');
+                        var input_clone = hide_input.cloneNode();
+                        element.append(input_clone);
+                    }
+                });
+            }
+        });
+        document.addEventListener("DOMContentLoaded", function (event) {
+            var ad_id = getURLParameter('ad_id');
+            if (ad_id != "") {
+                var hide_input = document.createElement('input');
+                hide_input.setAttribute('name', 'ad_id');
+                hide_input.setAttribute('type', 'hidden');
+                hide_input.value = ad_id;
+                var forms = document.querySelectorAll('form');
+                forms.forEach(function (element) {
+                    var input = element.querySelector('input[name=ad_id]');
+                    if (input) {
+                        console.log('change value');
+                        input.value = subid;
+                    } else {
+                        console.log('add input');
+                        var input_clone = hide_input.cloneNode();
+                        element.append(input_clone);
+                    }
+                });
+            }
+        });
+    </script>
+    <script src="js/postDate.js"></script>
+</body>
+
+</html>
